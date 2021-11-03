@@ -1,0 +1,7 @@
+E:\KhongLienQuan\OOP\classprogram\classprogram\bin\Debug\classprogram.exe.config
+E:\KhongLienQuan\OOP\classprogram\classprogram\bin\Debug\classprogram.exe
+E:\KhongLienQuan\OOP\classprogram\classprogram\bin\Debug\classprogram.pdb
+E:\KhongLienQuan\OOP\classprogram\classprogram\obj\Debug\classprogram.csprojAssemblyReference.cache
+E:\KhongLienQuan\OOP\classprogram\classprogram\obj\Debug\classprogram.csproj.CoreCompileInputs.cache
+E:\KhongLienQuan\OOP\classprogram\classprogram\obj\Debug\classprogram.exe
+E:\KhongLienQuan\OOP\classprogram\classprogram\obj\Debug\classprogram.pdb

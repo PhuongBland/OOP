@@ -1,0 +1,7 @@
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\bin\Debug\phamvitruycap.exe.config
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\bin\Debug\phamvitruycap.exe
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\bin\Debug\phamvitruycap.pdb
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\obj\Debug\phamvitruycap.csprojAssemblyReference.cache
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\obj\Debug\phamvitruycap.csproj.CoreCompileInputs.cache
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\obj\Debug\phamvitruycap.exe
+E:\KhongLienQuan\OOP\phamvitruycap\phamvitruycap\obj\Debug\phamvitruycap.pdb
