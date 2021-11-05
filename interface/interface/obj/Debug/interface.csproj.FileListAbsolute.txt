@@ -1,0 +1,7 @@
+E:\KhongLienQuan\OOP\interface\interface\obj\Debug\interface.csprojAssemblyReference.cache
+E:\KhongLienQuan\OOP\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+E:\KhongLienQuan\OOP\interface\interface\bin\Debug\@interface.exe.config
+E:\KhongLienQuan\OOP\interface\interface\bin\Debug\@interface.exe
+E:\KhongLienQuan\OOP\interface\interface\bin\Debug\@interface.pdb
+E:\KhongLienQuan\OOP\interface\interface\obj\Debug\@interface.exe
+E:\KhongLienQuan\OOP\interface\interface\obj\Debug\@interface.pdb

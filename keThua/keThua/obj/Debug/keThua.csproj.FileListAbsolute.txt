@@ -1,0 +1,7 @@
+E:\KhongLienQuan\OOP\keThua\keThua\bin\Debug\keThua.exe.config
+E:\KhongLienQuan\OOP\keThua\keThua\bin\Debug\keThua.exe
+E:\KhongLienQuan\OOP\keThua\keThua\bin\Debug\keThua.pdb
+E:\KhongLienQuan\OOP\keThua\keThua\obj\Debug\keThua.csprojAssemblyReference.cache
+E:\KhongLienQuan\OOP\keThua\keThua\obj\Debug\keThua.csproj.CoreCompileInputs.cache
+E:\KhongLienQuan\OOP\keThua\keThua\obj\Debug\keThua.exe
+E:\KhongLienQuan\OOP\keThua\keThua\obj\Debug\keThua.pdb

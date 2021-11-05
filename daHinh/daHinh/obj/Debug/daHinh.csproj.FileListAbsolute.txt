@@ -1,0 +1,7 @@
+E:\KhongLienQuan\OOP\daHinh\daHinh\bin\Debug\daHinh.exe.config
+E:\KhongLienQuan\OOP\daHinh\daHinh\bin\Debug\daHinh.exe
+E:\KhongLienQuan\OOP\daHinh\daHinh\bin\Debug\daHinh.pdb
+E:\KhongLienQuan\OOP\daHinh\daHinh\obj\Debug\daHinh.csprojAssemblyReference.cache
+E:\KhongLienQuan\OOP\daHinh\daHinh\obj\Debug\daHinh.csproj.CoreCompileInputs.cache
+E:\KhongLienQuan\OOP\daHinh\daHinh\obj\Debug\daHinh.exe
+E:\KhongLienQuan\OOP\daHinh\daHinh\obj\Debug\daHinh.pdb
